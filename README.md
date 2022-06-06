@@ -1,4 +1,4 @@
-#monsters-rolodex (11/2021)
+#monsters-rolodex
 
 It's a single-page React application, and it lists a bunch of different monsters as characters inside a card with distinctive names and email addresses.
 
